@@ -29,7 +29,7 @@ def main():
         
     input_video_path=str(input("Enter video path without quotes\n"))
   
-    camera_name=str(input("enter camera name: allen,or,limerick,or,rosemon\n"))
+    camera_name=str(input("enter camera name:\n"))
     #define window for display
     cv2.namedWindow("draw_rectangle",cv2.WINDOW_NORMAL)
     #read image
