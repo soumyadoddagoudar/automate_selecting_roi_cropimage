@@ -23,7 +23,7 @@ After executing application_tool_roi.py, run above code and provide video path a
 
 ## Example
 
-![alt text]( https://github.com/soumyadoddagoudar/Image_data_preprocessing/blob/master/data/refernce_explanimage.png)
+![alt text]( https://github.com/soumyadoddagoudar/automate_selecting_roi_cropimage/blob/master/data/airport_2.png)
 
 
 
