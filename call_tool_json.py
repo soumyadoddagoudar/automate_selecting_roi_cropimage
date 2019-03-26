@@ -15,7 +15,7 @@ def main():
     
     input_video_path=str(input("Enter video path without quotes\n"))
     
-    camera_name=str(input("enter camera name: allen,or,limerick,or,rosemon\n"))
+    camera_name=str(input("enter camera name: \n"))
     
     #read already stored values from config.json file to dictionary
     config_dict={}
